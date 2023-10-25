@@ -43,8 +43,7 @@ body {
 }
 
 .jazz-shadow {
-  /* border: 1px solid red; */
-  height: 4px;
-  border-radius: 50%;
+  height: 10px;
+  border-radius: 35%;
   background-color: #0000004f;
 }
